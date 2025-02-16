@@ -1,1 +1,2 @@
-# Écrivez votre code ici !
+age=30
+print("age")
